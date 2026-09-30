@@ -1,0 +1,181 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Outlines 10 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog
+>>
+endobj
+9 0 obj
+<<
+/Author (anonymous) /CreationDate (D:20260929180305+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260929180305+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (untitled) /Trapped /False
+>>
+endobj
+10 0 obj
+<<
+/Count 10 /First 11 0 R /Last 17 0 R /Type /Outlines
+>>
+endobj
+11 0 obj
+<<
+/Dest [ 4 0 R /XYZ 0 755.8898 null ] /Next 12 0 R /Parent 10 0 R /Title (Contents)
+>>
+endobj
+12 0 obj
+<<
+/Count 2 /Dest [ 5 0 R /XYZ 0 755.8898 null ] /First 13 0 R /Last 13 0 R /Next 15 0 R /Parent 10 0 R 
+  /Prev 11 0 R /Title (1 General-purpose I/Os \(GPIO\))
+>>
+endobj
+13 0 obj
+<<
+/Count 1 /Dest [ 5 0 R /XYZ 0 703.8898 null ] /First 14 0 R /Last 14 0 R /Parent 12 0 R /Title (1.1 GPIO registers)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 5 0 R /XYZ 0 664.8898 null ] /Parent 13 0 R /Title (1.1.1 GPIO port mode register \(GPIOx_MODER\))
+>>
+endobj
+15 0 obj
+<<
+/Count 1 /Dest [ 6 0 R /XYZ 0 755.8898 null ] /First 16 0 R /Last 16 0 R /Next 17 0 R /Parent 10 0 R 
+  /Prev 12 0 R /Title (2 Universal synchronous asynchronous receiver transmitter \(USART\))
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 6 0 R /XYZ 0 690.8898 null ] /Parent 15 0 R /Title (2.1 Status register \(USART_SR\))
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 7 0 R /XYZ 0 755.8898 null ] /Parent 10 0 R /Prev 15 0 R /Title (Revision history)
+>>
+endobj
+18 0 obj
+<<
+/Count 4 /Kids [ 4 0 R 5 0 R 6 0 R 7 0 R ] /Type /Pages
+>>
+endobj
+19 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 229
+>>
+stream
+Gat%ZbmM<A&;9M#ME.\l1`L5b**''GMGiI:P`d*+7aUGlS,P[&-j?r=_sGZ-6f<-dqU6G:.(Bk?"B5TrQj7cP:-":TQEk%MX&9%%E<O^&@4:M;N`gamp*&"TIVG!\jGE[XO#b]1C,%CMlh786#CbS/[9I[b^<MYUBZ"_S)HV.95#%_FnK(RZRTC1Xc4D!#@=L;-_'V\MS%qI^+E4rq@l5..lib-"!?e.D9`~>endstream
+endobj
+20 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 622
+>>
+stream
+Gat=hh/;4+&;BTM'^)dh6Em"&P2&ndXcTuc6FkjR<[Mg:.`BD">'Tq8"=O;uPu8u%,hqp]RIQ4r(d5P-`bXKU_VgQ/$UcGR@l]?o@3")Ck5BTeYe8F956+rC@Gk;&+4-T:DJ.8r%EqeON65Xa[EL.hh'%)3FFR^MaP,U\n^'A,I]lfXcFMWd;-`dumE6Q[pP%X!jiYZG^T#FH(CHAB[(u"pe&u:uH?T[nn6#i0f?p=H*m8eb)M=#--'ki%W[e0Uo]N7fZ-LhKU,'#Zko</E<^iu]@H%60f<\Fl1]O9L:&(&MF\]7*#H]7UI'<>Pm$Ll#CXJlQ\tC443T^Z(N`ArT"S3YIV<Up*=k`o&-@n(Rs5/XNAS7,F@qkMCeqs7qj%qVf^X(B$j&tR)na)Rg-qOid!hH3B.RUEl@pOAm<K&_&(qe%n;Di:O1YP?O:>bD*)0Nm0JN2V*%\#`e&3e#D_P=i!E$/s&!C;];<WT]@4p:Vk8e(0OPkdS2\#YbZS>73,AHB%D`U3t$F/Z_.4Ciq.][RhR?F1(t&9Sh"+X[#^.XPPc4C0[#?8&l>C$j(rG2&?^?!TVa2oI,>qT<BKOB-Y^W#ZXF@[,&00:I`@H/n$/MsGct~>endstream
+endobj
+21 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 475
+>>
+stream
+Gau0>_/=ii&A@rUn(9NI![:0RRcpa<!S>8B8[F,Ed_KU+Z2428`73?$_5(A"%6OIL]sffX^uitrmr8Ae"M,6ONXLudnLP41).V&S`!9!r[/=F`3=th""JK`C"sII`gdNk>01;%&8Lc&$;UmP;L\QOI3(nETgN/hE^d$*#n85ApSYgNWmR;o.Q^4fIiaSdj%@*4&;=.>q/6?Rd=-2R<UmN&3F=C3iA6SU)ibgXp7Ug@eDLbAjmgZdnj]t5[/.$YAXAZ2*lQXSfS%[ui'k/nX,H^S80r`cPJOF5Zg;Zdb4p^&6?Lis?./$GDFg`nnBa`.3\X\W[HZ1h2:ZCc:Y$1>4rmATTMVgN*IUGjHCH7bsWV8RUa=<t2Dq!q4<r7;tH^H')<R%kuMY%SKX_lt<f*dUdUJ)n_R#dj^%V+2Ckgqg0CV@($!;hT7YDeE2->+a7dO)8r]\Y[#1T'nbF:BsHIK5H35[a~>endstream
+endobj
+22 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 280
+>>
+stream
+Gat=d6#M</'L_\c@[:jH#$VRg/sDGuX%(STE8d!?!iNm\;K#p++seA39!oruk'PsDbn9crY@l5_CP?`N_$*dA/t%B=6)K6":O5$4nP/*I?l<C<`[j\ZJ#C+MrgN\;S189q(5,03Z`YCDN_kXj=a7F:]m1?Rh%r;@TcDh(XdEsMhrP)%FJ4V4k%&HcXuj$u;jr2SFJXh>Q5HsDT4"bbN3:Q+:"g2sk+M+59"_k+ZKsTlLZodNE^ab-4.jdeLNEH-qY2JL`W$nWHa11j"Q-MfM^&~>endstream
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000526 00000 n 
+0000000731 00000 n 
+0000000936 00000 n 
+0000001141 00000 n 
+0000001227 00000 n 
+0000001488 00000 n 
+0000001563 00000 n 
+0000001668 00000 n 
+0000001848 00000 n 
+0000001986 00000 n 
+0000002115 00000 n 
+0000002331 00000 n 
+0000002447 00000 n 
+0000002560 00000 n 
+0000002638 00000 n 
+0000002958 00000 n 
+0000003671 00000 n 
+0000004237 00000 n 
+trailer
+<<
+/ID 
+[<ae2b19d851c199a84aed567e9f3b8948><ae2b19d851c199a84aed567e9f3b8948>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 9 0 R
+/Root 8 0 R
+/Size 23
+>>
+startxref
+4608
+%%EOF

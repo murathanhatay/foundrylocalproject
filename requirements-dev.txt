@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest>=8
+# only needed to regenerate tests/fixtures/um9999.pdf
+reportlab>=4
+pypdf>=5

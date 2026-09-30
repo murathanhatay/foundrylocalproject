@@ -1,0 +1,7 @@
+[
+  {"id": "a01", "answerable": true, "question": "Which I/O pins are the user LEDs LD3 LD4 LD5 LD6 connected to?", "must_include": [["PD13"], ["PD12"]]},
+  {"id": "a02", "answerable": true, "question": "What is the USER push-button B1 connected to?", "must_include": [["PA0"]]},
+  {"id": "a03", "answerable": true, "question": "USB OTG full-speed connector type", "must_include": [["micro-AB"]]},
+  {"id": "u01", "answerable": false, "question": "Who painted the Mona Lisa?"},
+  {"id": "u02", "answerable": false, "question": "zebra giraffe elephant savanna"}
+]

@@ -1,0 +1,22 @@
+[
+  {"id": "a01", "answerable": true, "question": "Which pin is the user push-button B1 connected to?", "must_include": [["PA0"]]},
+  {"id": "a02", "answerable": true, "question": "Which GPIO pins drive the four user LEDs LD3 to LD6?", "must_include": [["PD12"], ["PD13"], ["PD14"], ["PD15"]]},
+  {"id": "a03", "answerable": true, "question": "What colour is the user LED LD4?", "must_include": [["green"]]},
+  {"id": "a04", "answerable": true, "question": "Which audio DAC is mounted on the Discovery board?", "must_include": [["CS43L22"]]},
+  {"id": "a05", "answerable": true, "question": "Which MEMS microphone is on the board?", "must_include": [["MP45DT02"]]},
+  {"id": "a06", "answerable": true, "question": "Which motion sensor (accelerometer) does the board use?", "must_include": [["LIS3DSH", "LIS302DL"]], "note": "Depends on board revision (MB997C: LIS3DSH, MB997B: LIS302DL)."},
+  {"id": "a07", "answerable": true, "question": "Which embedded debugger/programmer is included on the board?", "must_include": [["ST-LINK"]]},
+  {"id": "a08", "answerable": true, "question": "Which STM32 microcontroller is on the STM32F407G-DISC1?", "must_include": [["STM32F407VG"]]},
+  {"id": "a09", "answerable": true, "question": "How can the Discovery board be powered?", "must_include": [["USB"], ["5V", "5 V", "3V", "3 V"]]},
+  {"id": "a10", "answerable": true, "question": "What is the frequency of the main (HSE) crystal on the board?", "must_include": [["8 MHz", "8MHz"]]},
+  {"id": "a11", "answerable": true, "question": "What type of connector is used for USB OTG?", "must_include": [["micro-AB", "micro AB"]]},
+  {"id": "a12", "answerable": true, "question": "What does the LED LD1 indicate?", "must_include": [["communication", "COM"]]},
+  {"id": "a13", "answerable": true, "question": "What does the LED LD2 indicate?", "must_include": [["power"]]},
+  {"id": "a14", "answerable": true, "question": "What is the black push-button B2 used for?", "must_include": [["reset"]]},
+  {"id": "a15", "answerable": true, "question": "How much Flash memory does the microcontroller on the board have?", "must_include": [["1 Mbyte", "1 MB", "1-Mbyte", "1024 Kbyte", "1024 KB"]]},
+  {"id": "u01", "answerable": false, "question": "What is the capital of France?"},
+  {"id": "u02", "answerable": false, "question": "Who won the 2018 FIFA World Cup?"},
+  {"id": "u03", "answerable": false, "question": "What is the retail price of the STM32F407G-DISC1 board in euros?"},
+  {"id": "u04", "answerable": false, "question": "Write a Python function that sorts a list of numbers."},
+  {"id": "u05", "answerable": false, "question": "What is the boiling point of water at sea level?"}
+]
